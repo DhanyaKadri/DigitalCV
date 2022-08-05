@@ -1,6 +1,6 @@
-# MyPortfolio
+# MY DIGITAL CV
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+This project was generated with [Angular CLI]version 11.0.2.
 
 ## Development server
 
