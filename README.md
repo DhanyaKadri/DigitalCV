@@ -12,6 +12,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Cancel changes
 ## Deploy
 "deploy": "ng b --prod --base-href https://github.com/DhanyaKadri/DigitalCV && npx ngh --dir=dist/my-portfolio"
+"deploy": "ng b --prod --base-href https://DhanyaKadri.github.io/portfolio/ && npx ngh --dir=dist/my-portfolio"
 
 
 
